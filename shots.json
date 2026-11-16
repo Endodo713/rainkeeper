@@ -1,0 +1,6 @@
+[
+  {"name":"1-start.jpg","url":"?shot=start&seed=1"},
+  {"name":"2-play.jpg","url":"?shot=play&seed=1"},
+  {"name":"3-win.jpg","url":"?shot=win&seed=1"},
+  {"name":"4-lose.jpg","url":"?shot=lose&seed=1"}
+]
